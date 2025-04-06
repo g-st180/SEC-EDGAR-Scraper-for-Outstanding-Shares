@@ -8,7 +8,7 @@ A Python tool to extract the Outstanding Shares value from a U.S. public company
 
 - Navigates to a company's SEC filing index page (10-Q / 10-K)
 - Opens the Interactive XBRL viewer
-- Dynamically locates the “Common Stock, Shares Outstanding” value in the table, even if the layout changes
+- Dynamically locates the “Common Stock, Shares Outstanding” value in the table.
 
 ---
 
